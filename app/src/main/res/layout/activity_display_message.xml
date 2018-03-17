@@ -11,7 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="TextView"
+        android:text="@string/displayMessage_text"
         android:textColor="@android:color/holo_blue_bright"
         android:textSize="18sp"
         android:textStyle="bold"
